@@ -1,0 +1,14 @@
+# Target labels
+ databento-populate
+# Source files and their labels
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/databento-subbuild/CMakeFiles/databento-populate
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/databento-subbuild/CMakeFiles/databento-populate.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/databento-subbuild/CMakeFiles/databento-populate-complete.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/databento-subbuild/databento-populate-prefix/src/databento-populate-stamp/databento-populate-build.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/databento-subbuild/databento-populate-prefix/src/databento-populate-stamp/databento-populate-configure.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/databento-subbuild/databento-populate-prefix/src/databento-populate-stamp/databento-populate-download.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/databento-subbuild/databento-populate-prefix/src/databento-populate-stamp/databento-populate-install.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/databento-subbuild/databento-populate-prefix/src/databento-populate-stamp/databento-populate-mkdir.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/databento-subbuild/databento-populate-prefix/src/databento-populate-stamp/databento-populate-patch.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/databento-subbuild/databento-populate-prefix/src/databento-populate-stamp/databento-populate-test.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/databento-subbuild/databento-populate-prefix/src/databento-populate-stamp/databento-populate-update.rule

@@ -1,0 +1,14 @@
+# Target labels
+ httplib-populate
+# Source files and their labels
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/httplib-subbuild/CMakeFiles/httplib-populate
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/httplib-subbuild/CMakeFiles/httplib-populate.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/httplib-subbuild/CMakeFiles/httplib-populate-complete.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-build.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-configure.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-download.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-install.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-mkdir.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-patch.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-test.rule
+/Users/maxine/Downloads/Quant_Dev/try/build/_deps/httplib-subbuild/httplib-populate-prefix/src/httplib-populate-stamp/httplib-populate-update.rule

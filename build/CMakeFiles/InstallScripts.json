@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/maxine/Downloads/Quant_Dev/try/build/cmake_install.cmake",
+		"/Users/maxine/Downloads/Quant_Dev/try/build/_deps/databento-build/cmake_install.cmake",
+		"/Users/maxine/Downloads/Quant_Dev/try/build/_deps/json-build/cmake_install.cmake",
+		"/Users/maxine/Downloads/Quant_Dev/try/build/_deps/httplib-build/cmake_install.cmake",
+		"/Users/maxine/Downloads/Quant_Dev/try/build/_deps/date_src-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
